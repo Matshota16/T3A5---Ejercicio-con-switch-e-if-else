@@ -15,7 +15,7 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 6: Créditos
 7: Salir
 
-##Etapa 2. Diseño de la solucion
+##Etapa 2, Diseño de la solucion
   +Entrada:
         *String numeroTarjeta
         *int pin
