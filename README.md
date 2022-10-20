@@ -29,4 +29,5 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
   Diseñar interfaz.........
   
   ## Etapa 3.
-  ![](
+  ![](https://github.com/Matshota16/T3A5---Ejercicio-con-switch-e-if-else/blob/cfc4a12dbfa14c760f5830e6a0f1fa04a1276c60/Cuenta.png)
+  ![]
